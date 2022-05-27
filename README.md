@@ -22,7 +22,7 @@ const guillePereira = {
 ## About me  :thought_balloon:	
 I am a junior web developer with sales skills and creative communication tools that come from a past as Creative Director of DDBº advertising, an agency belonging to the Omnicom group and 4 years as a radio broadcaster in a humorous program. 
  
-## Skills :mechanical_arm:
+## Skills :art:
 | Frontend| Backend| More|
 | ----- | ---- | ----- |
 | HTML | Express | Bootstrap |
@@ -30,10 +30,10 @@ I am a junior web developer with sales skills and creative communication tools t
 | JavaScript | MongoDB and Mongoose | Google Maps and others API's|
 | React | Axios | JsonWebToken | 
 
-## Projects :man_technologist:
+## Projects :framed_picture:
 - [QuéQué](https://queque.netlify.app/)
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
 You can see the client code [here](https://github.com/MartinLaGuardia/queque-client) and the server code [here](https://[github.com/sarapuertas/Mari-conApp-server](https://github.com/MartinLaGuardia/queque-server)).
 
-## Contact :genie_man:
+## Contact :dove:
 - [Linkedin](https://www.linkedin.com/in/guillermopereirasuarez)
