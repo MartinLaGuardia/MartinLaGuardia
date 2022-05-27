@@ -44,9 +44,10 @@ I am a junior web developer with sales skills and creative communication tools t
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
 You can see the client code [here](https://github.com/MartinLaGuardia/queque-client) and the server code [here](https://[github.com/sarapuertas/Mari-conApp-server](https://github.com/MartinLaGuardia/queque-server)).
 
-## Contact :dove:
-- [Linkedin](https://www.linkedin.com/in/guillermopereirasuarez)
+<a href="http://www.github.com/martinlaguardia"><img src="https://activity-graph.herokuapp.com/graph?username=martinlaguardia&bg_color=1e3a8a&color=ffffff&line=14b8a6&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br></br>
 
-<a href="http://www.github.com/martinlaguardia"><img src="https://activity-graph.herokuapp.com/graph?username=martinlaguardia&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## Contact :dove:
+- [Linkedin](https://www.linkedin.com/in/guillermopereirasuarez)
+
