@@ -1,6 +1,5 @@
 ### :tophat: Judge not, lest ye be judged :tophat:
 
-
 ```javascript
 const guillePereira = {
    pronouns: "he" | "him",
@@ -19,13 +18,15 @@ const guillePereira = {
    currentOccupation: ["open for job opportunities"],
 };
 ```
+<br></br>
 
-----
 ## About me  :thought_balloon:	 
 I am a junior web developer with sales skills and creative communication tools that come from a past as Creative Director of DDBº advertising, an agency belonging to the Omnicom group and 4 years as a radio broadcaster in a humorous program. 
 * 🌍  I'm based in Madrid
 * 🧠  I'm learning TypeScript
  
+ <br></br>
+
 ## Skills :art:
 | Frontend| Backend| More|
 | ----- | ---- | ----- |
@@ -34,11 +35,14 @@ I am a junior web developer with sales skills and creative communication tools t
 | JavaScript | MongoDB and Mongoose | Google Maps and others API's|
 | React | Axios | JsonWebToken | 
 
+<br></br>
 
 ## Projects :framed_picture:
 - [QuéQué](https://queque.netlify.app/)
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
 You can see the client code [here](https://github.com/MartinLaGuardia/queque-client) and the server code [here](https://[github.com/sarapuertas/Mari-conApp-server](https://github.com/MartinLaGuardia/queque-server)).
+
+<br></br>
 
 <a href="http://www.github.com/martinlaguardia"><img src="https://activity-graph.herokuapp.com/graph?username=martinlaguardia&bg_color=1e3a8a&color=ffffff&line=14b8a6&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
