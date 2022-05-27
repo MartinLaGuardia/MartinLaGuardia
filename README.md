@@ -2,7 +2,7 @@
 const guillePereira(39) {
    pronouns: "he" | "him",
    bestfriends: ["Google", "Nodemon"]
-   code: [Javascript, HTML5, CSS3],
+   code: ["JavaScript", "HTML5", "CSS3"],
    technologies: {
       frontEnd: {
          js: "React",
@@ -31,7 +31,7 @@ I am a junior web developer with sales skills and creative communication tools t
 | JavaScript | MongoDB and Mongoose | Google Maps and others API's|
 | React | Axios | JsonWebToken | 
 
-
+---
 ## Projects :framed_picture:
 - [QuéQué](https://queque.netlify.app/)
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
