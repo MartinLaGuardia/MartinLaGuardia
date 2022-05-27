@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**MartinLaGuardia/MartinLaGuardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :space_invader: Judge not, lest ye be judged :space_invader:
 
 ```javascript
 const guillePereira = {
@@ -18,16 +15,14 @@ const guillePereira = {
       },
       databases: "MongoDB",
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
 };
 ```
 </br></br>
----
-
-## BIO 
+## About me  
 I am a junior web developer with sales skills and creative communication tools that come from a past as Creative Director of DDBº advertising, an agency belonging to the Omnicom group and 4 years as a radio broadcaster in a humorous program. 
  
-## My skills 
+## Skills 
 | Frontend| Backend| More|
 | ----- | ---- | ----- |
 | HTML | Express | Bootstrap |
@@ -40,5 +35,5 @@ I am a junior web developer with sales skills and creative communication tools t
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
 You can see the client code [here](https://github.com/MartinLaGuardia/queque-client) and the server code [here](https://[github.com/sarapuertas/Mari-conApp-server](https://github.com/MartinLaGuardia/queque-server)).
 
-## Contact with me
+## Contact
 - [Linkedin](https://www.linkedin.com/in/guillermopereirasuarez)
