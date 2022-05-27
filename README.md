@@ -1,4 +1,4 @@
-### :space_invader: Judge not, lest ye be judged :space_invader:
+### :tophat: Judge not, lest ye be judged :tophat:
 
 ```javascript
 const guillePereira = {
