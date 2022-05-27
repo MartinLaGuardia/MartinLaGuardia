@@ -21,9 +21,10 @@ const guillePereira(39) {
 I am a junior web developer with sales skills and creative communication tools that come from a past as Creative Director of DDBº advertising, an agency belonging to the Omnicom group and 4 years as a radio broadcaster in a humorous program. 
 * 🌍  I'm based in Madrid
 * 🧠  I'm learning TypeScript
- 
+
 
 ## Skills :art:
+
 | Frontend| Backend| More|
 | ----- | ---- | ----- |
 | HTML5 | Express | Bootstrap |
@@ -31,7 +32,7 @@ I am a junior web developer with sales skills and creative communication tools t
 | JavaScript | MongoDB and Mongoose | Google Maps and others API's|
 | React | Axios | JsonWebToken | 
 
----
+
 ## Projects :framed_picture:
 - [QuéQué](https://queque.netlify.app/)
 Full-Stack and single page application with **React**, **MERN Stack**, **GoogleMaps**, **GeoCode**...
