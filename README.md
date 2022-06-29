@@ -1,7 +1,7 @@
 ```javascript
 const guillePereira(39) {
    pronouns: "he" | "him",
-   bestfriends: ["Google", "Nodemon"]
+   bestfriends: ["Google", "Nodemon"],
    code: ["JavaScript", "HTML5", "CSS3"],
    technologies: {
       frontEnd: {
