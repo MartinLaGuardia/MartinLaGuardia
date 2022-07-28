@@ -11,7 +11,7 @@ const guillePereira(39) {
       backEnd: {
          js: ["Node", "Express", "Axios"],
       },
-      databases: [ NoSQL: "MongoDB and Mongoose", "SQL: "PostgreSQL"]
+      databases: [ NoSQL: "MongoDB", "SQL: "PostgreSQL"]
    },
    currentOccupation: ["Web Developer"],
 };
