@@ -6,29 +6,29 @@ const guillePereira(39) {
    technologies: {
       frontEnd: {
          js: "React",
-         css: ["Bootstrap", "Flexbox"]
+         css: ["Bootstrap", "Flexbox", "Material UI"]
       },
       backEnd: {
          js: ["Node", "Express", "Axios"],
       },
-      databases: "MongoDB and Mongoose",
+      databases: [ NoSQL: "MongoDB and Mongoose", "SQL: "PostgreSQL"]
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["Web Developer"],
 };
 ```
 
 ## About me :thought_balloon:	 
 I am a junior web developer with sales skills and creative communication tools that come from a past as Creative Director of DDBº advertising, an agency belonging to the Omnicom group and 4 years as a radio broadcaster in a humorous program. 
 * 🌍  I'm based in Madrid
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Golang 
 
 
 ## Skills :art:
 
 | Frontend| Backend| More|
 | ----- | ---- | ----- |
-| HTML5 | Express | Bootstrap |
-| CSS3 | NodeJS|Canvas |
+| HTML5 | Express | Bootstrap | Material UI
+| CSS3 | NodeJS | Canvas |
 | JavaScript | MongoDB and Mongoose | Google Maps and others API's|
 | React | Axios | JsonWebToken | 
 
